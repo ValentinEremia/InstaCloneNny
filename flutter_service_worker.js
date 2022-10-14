@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/assets/logo.svg": "c5a362cfd4683dc3ff1a5b5f35264a50",
 "assets/assets/logo2.svg": "5824edc390d35a0e6b45ac69de5556e3",
 "assets/assets/logoInsta.png": "654e78b9508d1e3940daae7c4a2fe6bb",
-"assets/assets/password.svg": "62afdac27f4ec86d2457152c4cd5f6d0",
+"assets/assets/password.svg": "c10b660de835b11129cdeaf47313a0d2",
 "assets/assets/play_store_512.png": "cdfb325ed3a3c366c464d1c335995f58",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -31,9 +31,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
 "icons/Icon-maskable-192.png": "a08ff5e5c48c597a4b3db79ac1e9fa06",
 "icons/Icon-maskable-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
-"index.html": "4e258b2538887286de2afe9d4dec4022",
-"/": "4e258b2538887286de2afe9d4dec4022",
-"main.dart.js": "2b0b24528d507102c56235d58e330f91",
+"index.html": "8c545f64b688b541001df19f1ef7ff74",
+"/": "8c545f64b688b541001df19f1ef7ff74",
+"main.dart.js": "d7f00c101009527b2f30764bb599cb6a",
 "manifest.json": "d8d5bfc70a9647f7b107e45f58fb0a67",
 "version.json": "2f6248792f3eff5965bd26491dd93b4b"
 };
