@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c8616f8e2115a66c2d5733139a13179c",
+  "assets/AssetManifest.json": "c73b2a54911a8fa00830ff7524efee40",
 "assets/assets/gradient.png": "d20c777d7406e07f1531bee24cb44b84",
 "assets/assets/icon/icon.png": "d7f6c183c9d64be092ab72f97e766f34",
 "assets/assets/icon.png": "d7f6c183c9d64be092ab72f97e766f34",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/logoInsta.png": "654e78b9508d1e3940daae7c4a2fe6bb",
 "assets/assets/logoNegru.svg": "be374af171f3a0cc4e73b0ae9a8d8454",
 "assets/assets/password.svg": "c10b660de835b11129cdeaf47313a0d2",
+"assets/assets/password2.svg": "7c1150fde16658d4cc631518d5070208",
 "assets/assets/play_store_512.png": "cdfb325ed3a3c366c464d1c335995f58",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -32,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
 "icons/Icon-maskable-192.png": "a08ff5e5c48c597a4b3db79ac1e9fa06",
 "icons/Icon-maskable-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
-"index.html": "47cec1e6dbed61fc0d3512a4069383eb",
-"/": "47cec1e6dbed61fc0d3512a4069383eb",
-"main.dart.js": "05e4c7dae036899423610dbbf59227a1",
+"index.html": "54a6e82a799277908a954f75837c4b99",
+"/": "54a6e82a799277908a954f75837c4b99",
+"main.dart.js": "ec3fa105001077cb44d5a229330e8777",
 "manifest.json": "d8d5bfc70a9647f7b107e45f58fb0a67",
 "version.json": "2f6248792f3eff5965bd26491dd93b4b"
 };
