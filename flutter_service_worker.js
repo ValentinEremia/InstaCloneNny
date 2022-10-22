@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "04b3bebc83f751114d1bccb7d5a6be02",
+  "assets/AssetManifest.json": "c8616f8e2115a66c2d5733139a13179c",
 "assets/assets/gradient.png": "d20c777d7406e07f1531bee24cb44b84",
 "assets/assets/icon/icon.png": "d7f6c183c9d64be092ab72f97e766f34",
 "assets/assets/icon.png": "d7f6c183c9d64be092ab72f97e766f34",
@@ -14,11 +14,12 @@ const RESOURCES = {
 "assets/assets/logo.svg": "c5a362cfd4683dc3ff1a5b5f35264a50",
 "assets/assets/logo2.svg": "5824edc390d35a0e6b45ac69de5556e3",
 "assets/assets/logoInsta.png": "654e78b9508d1e3940daae7c4a2fe6bb",
+"assets/assets/logoNegru.svg": "be374af171f3a0cc4e73b0ae9a8d8454",
 "assets/assets/password.svg": "c10b660de835b11129cdeaf47313a0d2",
 "assets/assets/play_store_512.png": "cdfb325ed3a3c366c464d1c335995f58",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "266c9dd4137de5e4f2eb3ec1c81aa00a",
+"assets/NOTICES": "ef0a018d1a1bd833f36b17f5f5ab275d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "e66d3b0abe4b36b99388f87b8d08ae42",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -31,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
 "icons/Icon-maskable-192.png": "a08ff5e5c48c597a4b3db79ac1e9fa06",
 "icons/Icon-maskable-512.png": "2cedf0a77b62b2a1c8eb4dad7378713c",
-"index.html": "e532e203410f81bd9faae096c3b5c38b",
-"/": "e532e203410f81bd9faae096c3b5c38b",
-"main.dart.js": "3acd160987d455d00c9e39a90268c7a7",
+"index.html": "47cec1e6dbed61fc0d3512a4069383eb",
+"/": "47cec1e6dbed61fc0d3512a4069383eb",
+"main.dart.js": "05e4c7dae036899423610dbbf59227a1",
 "manifest.json": "d8d5bfc70a9647f7b107e45f58fb0a67",
 "version.json": "2f6248792f3eff5965bd26491dd93b4b"
 };
