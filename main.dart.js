@@ -84987,8 +84987,8 @@ I(a){var s,r,q,p,o,n=this,m=null,l=a.J(t.w).f.a.a,k=n.a.c
 k!=="like"
 if(n.f)k=A.cO(A.ia(a),m,m)
 else{k=l>600
-if(k){s=A.Q(a).ax.a
-s=A.a3(102,s>>>16&255,s>>>8&255,s&255)}else s=A.Q(a).k1
+if(k){s=A.Q(a).k1
+s=A.a3(226,s.gm(s)>>>16&255,s.gm(s)>>>8&255,s.gm(s)&255)}else s=A.Q(a).k1
 r=A.Q(a)
 q=A.dt(m,A.ea(B.ip,A.Q(a).fy,m),m,new A.avj(n,a),m)
 p=A.e(J.Y(n.d,"description"))
